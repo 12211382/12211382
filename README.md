@@ -1,6 +1,6 @@
 - 👋 Hi, I’m lakshmi narayana
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning  python and html
+- 🌱 I’m currently learning  java
 - 💞️ I’m looking to collaborate on  wipro
 - 📫 How to reach me lakshminarayanakotnana@gmail.com
 
